@@ -1,0 +1,64 @@
+.fondo{
+	height: 560px;
+	width: 775px;
+	     background-image: url("fondo.jpg");
+	     z-index: -5; 
+	     position: absolute;
+	     top: 150px;
+	     left: 550px;
+}
+.m{
+   height: 150px;
+   width: 150px;
+   z-index: 15;
+   left: 600px;
+   position: absolute;
+   top: 300px;
+}
+.fondoo{
+	height: 1900px;
+	width: 1000px;
+	     background-color: green;
+	     z-index: -5;
+	 }
+
+.r{
+	background-color: #3BD15D;
+
+}
+.w{
+	position: absolute;
+	top: 2px;
+	left: 650px;
+    font-size: 80px;
+    position: absolute;
+   
+}
+.p{
+	height: 300px;
+   width: 200px;
+   z-index: 15;
+   left: 35px;
+   position: absolute;
+   top: 220px;
+}
+.lo{
+	height: 300px;
+   width: 200px;
+   z-index: 15;
+   left: 280px;
+   position: absolute;
+   top: 1px;
+
+}
+.po{
+	height: 310px;
+   width: 270px;
+   z-index: 15;
+   left: 250px;
+   top: 220px;
+   position: absolute;
+
+
+
+}
